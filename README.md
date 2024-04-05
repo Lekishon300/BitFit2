@@ -2,7 +2,7 @@
 
 Submitted by: **Christine Lekishon**
 
-**BitFit** is a health metrics app that allows users to track ... [TODO] 
+**BitFit** is a health metrics app that allows users to track calories.
 
 Time spent: **6** hours spent in total
 
